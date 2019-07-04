@@ -1,2 +1,5 @@
-# notes-javascript
-My notes and references for JavaScript
+# JavaScript Notes and References
+
+My notes and references for JavaScript to help me remember sources and other details.
+
+* [Snippets](Snippets.md)
