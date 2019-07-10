@@ -18,3 +18,4 @@ My notes and references for JavaScript to help me remember sources and other det
   * Symbol.prototype.description
   * Optional Catch Binding
   * Stable Array.prototype.sort()
+* [ECMAScript 2018 Language Features](ES2018.md)
