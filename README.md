@@ -6,6 +6,7 @@ My notes and references for JavaScript to help me remember sources and other det
 
 ## Ecma International, Technical Committee 39 - ECMAScript
 
+* [ECMAScript on Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ECMA TC39 on GitHub](https://github.com/tc39)
 * [ECMA TC39 Finished Proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 * [ECMAScript 2019 Language Features](ES2019.md)
