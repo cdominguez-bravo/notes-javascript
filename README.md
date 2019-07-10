@@ -37,4 +37,8 @@ My notes and references for JavaScript to help me remember sources and other det
   * Object.getOwnPropertyDescriptors()
   * SharedArrayBuffer
   * Atomics
+* [ECMAScript 2016 Language Features](ES2016.md)
+  * Array.prototype.includes()
+  * Exponentiation Operator
+
 
