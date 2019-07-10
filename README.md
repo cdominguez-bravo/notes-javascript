@@ -27,3 +27,14 @@ My notes and references for JavaScript to help me remember sources and other det
   * Async Generator Functions
   * Promise.prototype.finally()
   * Regexp Improvements
+* [ECMAScript 2017 Language Features](ES2017.md)
+  * Async Function
+  * Await Operator
+  * Object.values()
+  * Object.entries()
+  * String.prototype.padStart()
+  * String.prototype.padEnd()
+  * Object.getOwnPropertyDescriptors()
+  * SharedArrayBuffer
+  * Atomics
+
