@@ -4,3 +4,11 @@ My notes and references for JavaScript to help me remember sources and other det
 
 * [Snippets](Snippets.md)
 * [ECMAScript 2019 Language Features](ES2019.md)
+  * Array.prototype.flat()
+  * Array.prototype.flatMap()
+  * Object.fromEntries()
+  * String.prototype.trimStart()
+  * String.prototype.trimEnd()
+  * Symbol.prototype.description
+  * Optional Catch Binding
+  * Stable Array.prototype.sort()
