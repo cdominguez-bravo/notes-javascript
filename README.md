@@ -19,3 +19,11 @@ My notes and references for JavaScript to help me remember sources and other det
   * Optional Catch Binding
   * Stable Array.prototype.sort()
 * [ECMAScript 2018 Language Features](ES2018.md)
+  * Object Rest Properties (Destructuring)
+  * Object Spread Properties (Initializer)
+  * Async Iterators
+  * Symbol.asyncIterator
+  * Async Iteration Statement: for-await-of
+  * Async Generator Functions
+  * Promise.prototype.finally()
+  * Regexp Improvements
