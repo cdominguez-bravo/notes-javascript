@@ -4,6 +4,10 @@ My notes and references for JavaScript to help me remember sources and other det
 
 * [Snippets](Snippets.md)
 
+## Learning Resources
+
+* [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+
 ## Ecma International, Technical Committee 39 - ECMAScript
 
 * [ECMAScript on Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
