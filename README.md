@@ -10,10 +10,11 @@ My notes and references for JavaScript to help me remember sources and other det
 
 ## Specifications and Standards
 
-* [Schema.org](https://schema.org/)
-* [JSON Specification](https://www.json.org/)
-* [JSON API Specification](https://jsonapi.org/)
-* [CloudEvents Specification](https://github.com/cloudevents/spec)
+* [CloudEvents Specification](https://cloudevents.io/) - A specification for describing event data in a common way.
+* [JSON Specification](https://www.json.org/) - JavaScript Object Notation a lightweight data-interchange format.
+* [JSON API Specification](https://jsonapi.org/) - A specification for building APIs in JSON.
+* [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data.
+* [Schema.org](https://schema.org/) - Schemas for structured data on the Internet.
 
 ## Ecma International, Technical Committee 39 - ECMAScript
 
