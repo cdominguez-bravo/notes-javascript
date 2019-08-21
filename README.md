@@ -8,8 +8,9 @@ My notes and references for JavaScript to help me remember sources and other det
 
 * [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
-## Specifications of Interest
+## Specifications and Standards
 
+* [Schema.org](https://schema.org/)
 * [JSON Specification](https://www.json.org/)
 * [JSON API Specification](https://jsonapi.org/)
 * [CloudEvents Specification](https://github.com/cloudevents/spec)
