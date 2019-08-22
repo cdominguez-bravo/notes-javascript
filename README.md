@@ -6,7 +6,11 @@ My notes and references for JavaScript to help me remember sources and other det
 
 ## Learning Resources
 
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+* [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 * [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+* [Nodeschool](https://nodeschool.io/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Specifications and Standards
 
