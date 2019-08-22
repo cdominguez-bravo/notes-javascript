@@ -9,8 +9,8 @@ My notes and references for JavaScript to help me remember sources and other det
 
 This list is in order of skill level:
 
-* [Nodeschool](https://nodeschool.io/)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Nodeschool](https://nodeschool.io/) - Open source workshops that teach web software skills.
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into the core mechanisms of the JavaScript language.
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 * [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 * [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
