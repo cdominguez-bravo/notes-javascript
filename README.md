@@ -9,22 +9,35 @@ My notes and references for JavaScript to help me remember sources and other det
 
 This list is in order of skill level:
 
-* [Nodeschool](https://nodeschool.io/) - Open source workshops that teach web software skills.
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into the core mechanisms of the JavaScript language.
+* Workshops: [Nodeschool](https://nodeschool.io/)
+* Books: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* Online: [The Modern JavaScript Tutorial](https://javascript.info/)
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 * [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 * [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+* [REST API Tutorial](https://restfulapi.net/)
 
 ## Specifications and Standards
 
 * [CloudEvents Specification](https://cloudevents.io/) - A specification for describing event data in a common way.
+* [CORS: Cross-Origin Resource Sharing](https://enable-cors.org/) - Enables truly open access across domain-boundaries.
+* [HTML Specification](https://html.spec.whatwg.org/) - A big part of the Web platform.
+* [HTTP Secifications](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications) - The web transfer protocol.
+* [JSON Schema](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents.
 * [JSON Specification](https://www.json.org/) - JavaScript Object Notation a lightweight data-interchange format.
 * [JSON API Specification](https://jsonapi.org/) - A specification for building APIs in JSON.
+* [OAuth](https://oauth.net/) - Authorization framework
+  * [OpenID Connect](https://openid.net/connect/) -  Identity layer on top of the OAuth 2.0 protocol.
+* [OpenTracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
 * [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data.
+* [REST: Representational State Transfer](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Architectural style for distributed hypermedia systems.
 * [Schema.org](https://schema.org/) - Schemas for structured data on the Internet.
+* [Web Components](https://www.webcomponents.org/introduction) - Custom components and widgets build on the Web Component standards.
+* [YAML Specification](https://yaml.org/)
 
-## Ecma International, Technical Committee 39 - ECMAScript
+### Ecma International, Technical Committee 39 - ECMAScript
 
+* [TC39](https://tc39.es/) - Specifying JavaScript.
 * [ECMAScript on Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ECMA TC39 on GitHub](https://github.com/tc39)
 * [ECMA TC39 Finished Proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
