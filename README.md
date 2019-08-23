@@ -18,6 +18,14 @@ This list is in order of skill level:
 * [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 * [REST API Tutorial](https://restfulapi.net/)
 
+## News
+
+* [Node Weekly News Letter](https://nodeweekly.com/)
+* [JavaScript Weekly News Letter](https://javascriptweekly.com/)
+* [Echo JS](http://www.echojs.com/)
+* [Best of JavaScript](https://bestofjs.org/)
+* [JavaScriptKicks](http://javascriptkicks.com/)
+
 ## Specifications and Standards
 
 * [CloudEvents](https://cloudevents.io/) - A specification for describing event data in a common way.
