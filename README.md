@@ -2,6 +2,7 @@
 
 My notes and references for JavaScript to help me remember sources and other details.
 
+* [Deno](Deno.md)
 * [Node.js Modules](Nodejs.md)
 * [Snippets](Snippets.md)
 
