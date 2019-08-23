@@ -28,7 +28,8 @@ This list is in order of skill level:
 * [JSON Schema](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents.
 * [JSON API](https://jsonapi.org/) - A specification for building APIs in JSON.
 * [OAuth](https://oauth.net/) - Authorization framework.
-  * [OpenID Connect](https://openid.net/connect/) -  Identity layer on top of the OAuth 2.0 protocol.
+  * [OpenID Connect](https://openid.net/connect/) - Identity layer on top of the OAuth 2.0 protocol.
+* [OpenAPI](https://www.openapis.org/) - Defines a standard, programming language-agnostic interface description for REST APIs.
 * [OpenTracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
 * [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data.
 * [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Representational State Transfer is an architectural style for distributed hypermedia systems.
