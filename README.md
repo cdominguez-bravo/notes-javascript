@@ -74,5 +74,5 @@ This list is in order of skill level:
 * [ECMAScript 2016 Language Features](ES2016.md)
   * Array.prototype.includes()
   * Exponentiation Operator
-* [ECMAScript 2015 Language Features](https://www.ecma-international.org/ecma-262/6.0/)
+* [ECMAScript 2015 (ES6) Language Features](http://es6-features.org)
 
