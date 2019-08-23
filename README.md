@@ -19,21 +19,21 @@ This list is in order of skill level:
 
 ## Specifications and Standards
 
-* [CloudEvents Specification](https://cloudevents.io/) - A specification for describing event data in a common way.
-* [CORS: Cross-Origin Resource Sharing](https://enable-cors.org/) - Enables truly open access across domain-boundaries.
-* [HTML Specification](https://html.spec.whatwg.org/) - A big part of the Web platform.
-* [HTTP Secifications](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications) - The web transfer protocol.
+* [CloudEvents](https://cloudevents.io/) - A specification for describing event data in a common way.
+* [CORS](https://enable-cors.org/) - Cross-Origin Resource Sharing enables truly open access across domain-boundaries.
+* [HTML](https://html.spec.whatwg.org/) - Hypertext Markup Language is a big part of the Web platform.
+* [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications) - Hypertext Transfer Protocol.
+* [JSON](https://www.json.org/) - JavaScript Object Notation is a lightweight data-interchange format.
 * [JSON Schema](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents.
-* [JSON Specification](https://www.json.org/) - JavaScript Object Notation a lightweight data-interchange format.
-* [JSON API Specification](https://jsonapi.org/) - A specification for building APIs in JSON.
-* [OAuth](https://oauth.net/) - Authorization framework
+* [JSON API](https://jsonapi.org/) - A specification for building APIs in JSON.
+* [OAuth](https://oauth.net/) - Authorization framework.
   * [OpenID Connect](https://openid.net/connect/) -  Identity layer on top of the OAuth 2.0 protocol.
 * [OpenTracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
 * [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data.
-* [REST: Representational State Transfer](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Architectural style for distributed hypermedia systems.
+* [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Representational State Transfer is an architectural style for distributed hypermedia systems.
 * [Schema.org](https://schema.org/) - Schemas for structured data on the Internet.
 * [Web Components](https://www.webcomponents.org/introduction) - Custom components and widgets build on the Web Component standards.
-* [YAML Specification](https://yaml.org/)
+* [YAML: YAML Ain't Markup Language](https://yaml.org/) - Human friendly data serialization standard for all programming languages.
 
 ### Ecma International, Technical Committee 39 - ECMAScript
 
