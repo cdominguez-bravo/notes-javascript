@@ -8,6 +8,7 @@ Interesting and useful Node.js Modules.
 * [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services.
 * [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
 * [XState](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
+* [Mnemonist](https://yomguithereal.github.io/mnemonist/) - Curated collection of data structures for the JavaScript language.
 
 ## Distributed Processing
 
