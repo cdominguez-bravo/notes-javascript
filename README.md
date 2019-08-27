@@ -34,6 +34,7 @@ This list is in order of skill level:
 * [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications) - Hypertext Transfer Protocol.
 * [JSON](https://www.json.org/) - JavaScript Object Notation is a lightweight data-interchange format.
 * [JSON Schema](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents.
+* [JSON Schema Store](http://schemastore.org/) - Schemas for all commonly known JSON file formats.
 * [JSON API](https://jsonapi.org/) - A specification for building APIs in JSON.
 * [OAuth](https://oauth.net/) - Authorization framework.
   * [OpenID Connect](https://openid.net/connect/) - Identity layer on top of the OAuth 2.0 protocol.
