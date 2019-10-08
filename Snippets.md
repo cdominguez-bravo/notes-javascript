@@ -5,6 +5,7 @@ Table of Contents:
 * [Factory Functions](#factory-functions)
 * [Function with Optional Arguments](#function-with-optional-arguments)
 * [Function with Optional Arguments and Defaults](#function-with-optional-arguments-and-defaults)
+* [Multiple Contitionals](#multiple-conditionals)
 
 ## Factory Functions
 
@@ -67,3 +68,24 @@ function (options) {
 ```
 
 _Bonus: The original object is copied and options is no longer a reference to the original options object._
+
+## Multiple Conditionals
+
+Use `array.includes` for testing multiple conditional 
+
+```js
+
+const checkCarModel = (model) => {
+  const models = ['peugeot', 'renault'];
+
+  if(models.includes(model)) { 
+    console.log('model valid');
+  }
+}
+
+checkCarModel('renault'); // outputs 'model valid'
+
+```
+
+* [Tips and Tricks for Better JavaScript Conditionals and Match Criteria](https://dev.to/proticm/tips-and-tricks-for-better-javascript-conditionals-and-match-criteria-409f)
+
