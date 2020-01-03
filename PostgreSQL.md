@@ -5,8 +5,8 @@ This document also includes non-javascript related notes.
 ## Return Rows as JSON
 
 ```sql
-select row_to_json(n)
-from (
-  select id, name from contacts
+SELECT row_to_json(n)
+FROM (
+  SELECT id, name FROM contacts
 ) AS n
 ```
