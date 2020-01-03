@@ -2,6 +2,8 @@
 
 This document also includes non-javascript related notes.
 
+Reference document: [JSON Functions and Operators](https://www.postgresql.org/docs/current/functions-json.html)
+
 ## Return Rows as JSON
 
 ```sql
