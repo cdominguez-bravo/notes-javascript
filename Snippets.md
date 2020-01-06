@@ -89,3 +89,6 @@ checkCarModel('renault'); // outputs 'model valid'
 
 * [Tips and Tricks for Better JavaScript Conditionals and Match Criteria](https://dev.to/proticm/tips-and-tricks-for-better-javascript-conditionals-and-match-criteria-409f)
 
+## Rest and Spread
+
+* [7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
