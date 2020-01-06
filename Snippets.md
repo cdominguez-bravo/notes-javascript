@@ -6,6 +6,7 @@ Table of Contents:
 * [Function with Optional Arguments](#function-with-optional-arguments)
 * [Function with Optional Arguments and Defaults](#function-with-optional-arguments-and-defaults)
 * [Multiple Contitionals](#multiple-conditionals)
+* [Rest and Spread](#rest-and-spread)
 
 ## Factory Functions
 
